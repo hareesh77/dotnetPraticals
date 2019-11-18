@@ -1,0 +1,11 @@
+C:\Users\Kaustav\source\repos\DemoConsoleApp\DemoConsoleApp\bin\Debug\netcoreapp3.0\DemoConsoleApp.exe
+C:\Users\Kaustav\source\repos\DemoConsoleApp\DemoConsoleApp\bin\Debug\netcoreapp3.0\DemoConsoleApp.deps.json
+C:\Users\Kaustav\source\repos\DemoConsoleApp\DemoConsoleApp\bin\Debug\netcoreapp3.0\DemoConsoleApp.runtimeconfig.json
+C:\Users\Kaustav\source\repos\DemoConsoleApp\DemoConsoleApp\bin\Debug\netcoreapp3.0\DemoConsoleApp.runtimeconfig.dev.json
+C:\Users\Kaustav\source\repos\DemoConsoleApp\DemoConsoleApp\bin\Debug\netcoreapp3.0\DemoConsoleApp.dll
+C:\Users\Kaustav\source\repos\DemoConsoleApp\DemoConsoleApp\bin\Debug\netcoreapp3.0\DemoConsoleApp.pdb
+C:\Users\Kaustav\source\repos\DemoConsoleApp\DemoConsoleApp\obj\Debug\netcoreapp3.0\DemoConsoleApp.csprojAssemblyReference.cache
+C:\Users\Kaustav\source\repos\DemoConsoleApp\DemoConsoleApp\obj\Debug\netcoreapp3.0\DemoConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Kaustav\source\repos\DemoConsoleApp\DemoConsoleApp\obj\Debug\netcoreapp3.0\DemoConsoleApp.AssemblyInfo.cs
+C:\Users\Kaustav\source\repos\DemoConsoleApp\DemoConsoleApp\obj\Debug\netcoreapp3.0\DemoConsoleApp.dll
+C:\Users\Kaustav\source\repos\DemoConsoleApp\DemoConsoleApp\obj\Debug\netcoreapp3.0\DemoConsoleApp.pdb

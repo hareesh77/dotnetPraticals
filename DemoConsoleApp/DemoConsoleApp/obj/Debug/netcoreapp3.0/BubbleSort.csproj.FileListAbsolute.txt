@@ -1,0 +1,10 @@
+C:\Users\Kaustav\source\repos\DemoConsoleApp\DemoConsoleApp\bin\Debug\netcoreapp3.0\BubbleSort.exe
+C:\Users\Kaustav\source\repos\DemoConsoleApp\DemoConsoleApp\bin\Debug\netcoreapp3.0\BubbleSort.deps.json
+C:\Users\Kaustav\source\repos\DemoConsoleApp\DemoConsoleApp\bin\Debug\netcoreapp3.0\BubbleSort.runtimeconfig.json
+C:\Users\Kaustav\source\repos\DemoConsoleApp\DemoConsoleApp\bin\Debug\netcoreapp3.0\BubbleSort.runtimeconfig.dev.json
+C:\Users\Kaustav\source\repos\DemoConsoleApp\DemoConsoleApp\bin\Debug\netcoreapp3.0\BubbleSort.dll
+C:\Users\Kaustav\source\repos\DemoConsoleApp\DemoConsoleApp\bin\Debug\netcoreapp3.0\BubbleSort.pdb
+C:\Users\Kaustav\source\repos\DemoConsoleApp\DemoConsoleApp\obj\Debug\netcoreapp3.0\BubbleSort.AssemblyInfoInputs.cache
+C:\Users\Kaustav\source\repos\DemoConsoleApp\DemoConsoleApp\obj\Debug\netcoreapp3.0\BubbleSort.AssemblyInfo.cs
+C:\Users\Kaustav\source\repos\DemoConsoleApp\DemoConsoleApp\obj\Debug\netcoreapp3.0\BubbleSort.dll
+C:\Users\Kaustav\source\repos\DemoConsoleApp\DemoConsoleApp\obj\Debug\netcoreapp3.0\BubbleSort.pdb
