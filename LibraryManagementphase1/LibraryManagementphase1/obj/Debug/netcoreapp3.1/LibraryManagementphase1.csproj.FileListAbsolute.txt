@@ -1,0 +1,11 @@
+C:\Users\Hareesh\source\repos\LibraryManagementphase1\LibraryManagementphase1\bin\Debug\netcoreapp3.1\LibraryManagementphase1.exe
+C:\Users\Hareesh\source\repos\LibraryManagementphase1\LibraryManagementphase1\bin\Debug\netcoreapp3.1\LibraryManagementphase1.deps.json
+C:\Users\Hareesh\source\repos\LibraryManagementphase1\LibraryManagementphase1\bin\Debug\netcoreapp3.1\LibraryManagementphase1.runtimeconfig.json
+C:\Users\Hareesh\source\repos\LibraryManagementphase1\LibraryManagementphase1\bin\Debug\netcoreapp3.1\LibraryManagementphase1.runtimeconfig.dev.json
+C:\Users\Hareesh\source\repos\LibraryManagementphase1\LibraryManagementphase1\bin\Debug\netcoreapp3.1\LibraryManagementphase1.dll
+C:\Users\Hareesh\source\repos\LibraryManagementphase1\LibraryManagementphase1\bin\Debug\netcoreapp3.1\LibraryManagementphase1.pdb
+C:\Users\Hareesh\source\repos\LibraryManagementphase1\LibraryManagementphase1\obj\Debug\netcoreapp3.1\LibraryManagementphase1.csprojAssemblyReference.cache
+C:\Users\Hareesh\source\repos\LibraryManagementphase1\LibraryManagementphase1\obj\Debug\netcoreapp3.1\LibraryManagementphase1.AssemblyInfoInputs.cache
+C:\Users\Hareesh\source\repos\LibraryManagementphase1\LibraryManagementphase1\obj\Debug\netcoreapp3.1\LibraryManagementphase1.AssemblyInfo.cs
+C:\Users\Hareesh\source\repos\LibraryManagementphase1\LibraryManagementphase1\obj\Debug\netcoreapp3.1\LibraryManagementphase1.dll
+C:\Users\Hareesh\source\repos\LibraryManagementphase1\LibraryManagementphase1\obj\Debug\netcoreapp3.1\LibraryManagementphase1.pdb
